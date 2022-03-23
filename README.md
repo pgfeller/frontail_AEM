@@ -42,6 +42,6 @@ web/assets/styles/openhab_AEM.css
 
 Thanks to the work of [Ethan Dye](https://github.com/ecdye) this is also the standard Frontail version on [OpenHABian](https://github.com/openhab/openhabian) starting from version 1.6.4: you can install it using openhabian-config, menu 21.
 
-Thanks to Grzegorz Miasko(https://github.com/gieemek/openHAB_Frontail_AGM_Theme) who [contributed with new rules and color theme](https://community.openhab.org/t/frontail-custom-theme-coloring/116673/98?u=aem).
+Thanks to [Grzegorz Miasko](https://github.com/gieemek/openHAB_Frontail_AGM_Theme) who [contributed with new rules and color theme](https://community.openhab.org/t/frontail-custom-theme-coloring/116673/98?u=aem).
 
 I would also like to thank [Schnuecks](https://github.com/Schnuecks) for helping me and giving some great suggestions. He also created a Repository for the installation via docker image, you can find it [here](https://github.com/Schnuecks/frontail_AEM).
