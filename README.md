@@ -1,7 +1,7 @@
 # Frontail for openHAB
 ## Streaming openHAB logs to the browser
 
-This is a fork from the [official Frontail](https://github.com/mthenw/frontail). It is intended to work especially with openHAB log files.
+This is a fork from the [official Frontail](https://github.com/mthenw/frontail). It is intended to work especially with [openHAB] (https://www.openhab.org) log files.
 
 
 ## Features
