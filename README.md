@@ -33,7 +33,10 @@ Then the frontail itself:
 ```
 sudo npm i frontail -g
 ```
-
+Get (linux-specific) frontail installation folder:
+```
+echo "$(npm list -g | head -n 1)/node_modules/frontail"
+```
 ### Copy modified files to frontail
 Copy modified files from this repo to the frontail installations dir, i.e.: ```/usr/lib/node_modules/frontail/```
 
