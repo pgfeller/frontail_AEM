@@ -84,8 +84,8 @@ web/assets/app.js
 
 And some files were added:
 ```
-preset/openhab_AEM.json
-web/assets/styles/openhab_AEM.css
+preset/openhab.json
+web/assets/styles/openhab.css
 ```
 
 
